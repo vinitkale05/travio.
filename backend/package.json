@@ -1,0 +1,9 @@
+{
+    "name": "travio-backend",
+    "version": "0.1.0",
+    "private": true,
+    "description": "Travio Backend Services",
+    "dependencies": {
+        "mongoose": "^9.2.3"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "new-york",
+  "rsc": true,
+  "tsx": true,
+  "tailwind": {
+    "config": "",
+    "css": "globals.css",
+    "baseColor": "neutral",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "iconLibrary": "lucide",
+  "rtl": false,
+  "aliases": {
+    "components": "@frontend/ui",
+    "utils": "@shared/utils",
+    "ui": "@frontend/ui/ui",
+    "lib": "@shared",
+    "hooks": "@frontend/hooks"
+  },
+  "registries": {}
+}

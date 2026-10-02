@@ -135,7 +135,7 @@ erDiagram
 
 ## 👨‍💻 Developed By
 
-**[Pranav Gawai](https://github.com/pranavgawaii)**  
+**[Vinit kale](https://github.com/vinitkale05)**  
 *Full-Stack Engineer & Designer*
 
 If you find Travio useful, please consider giving it a ⭐ on GitHub!
